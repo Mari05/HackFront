@@ -2637,6 +2637,7 @@ ul {
     background-color: #fff;
     text-align: center !important;
   }
+  
   /* line 142, E:/167 Bizcon Business/Bizcon_html/sass/_menu.scss */
   .dropdown .dropdown-menu {
     transform: scale(1, 0);
@@ -2678,7 +2679,7 @@ ul {
   height: 880px;
   position: relative;
   overflow: hidden;
-  background-image: url(../img/Jalisco_Guadalajara.jpg);
+  background-image: url(../img/index_minerva.png);
   background-repeat: no-repeat;
   background-size: 41%;
   background-position: top right;
